@@ -28,4 +28,6 @@ ed URL returned error: 403
 하고 다시 git push origin main
 기존 앱이 엣지로 되어 있을 경우 크롬으로 바꾸고 진행하자
 
-
+# 저장소 가져오기 (깃헙에서)
+git clone https://github.com/kuma2156/gitstudy.git githubStudy
+              깃헙 클론 저장소 링크                        원하는 폴더이름
