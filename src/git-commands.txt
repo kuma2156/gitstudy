@@ -17,6 +17,8 @@ git pull                      # 원격 저장소의 최신 커밋 가져오기 +
 git branch                    # 브랜치 목록 보기
 git checkout -b feature/xxx   # 새 브랜치 생성 후 이동
 
+git config user.name "ddingyu"
+git config user.email "kuma2156@naver.com"
 
 # 해당 에러가 발생 시 (다른 PC 사용 시)
 $ git push origin main
